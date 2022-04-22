@@ -1,0 +1,68 @@
+[
+	{
+		"key": "AM1",
+		"latitude": -3.1112947498836134,
+		"longitude": -59.95450254502995,
+		"name": "Manaus Matriz"
+	},
+	{
+		"key": "AM2",
+		"latitude": -3.112107602355552,
+		"longitude": -59.956036765887916,
+		"name": "Manaus"
+	},
+	{
+		"key": "BA1",
+		"latitude": -12.696986758373496,
+		"longitude": -38.304655295242654,
+		"name": "Camaçari"
+	},
+	{
+		"key": "USA",
+		"latitude": 41.08288673179581,
+		"longitude": -83.6481596506327,
+		"name": "Findlay-Ohio"
+	},
+	{
+		"key": "MG1",
+		"latitude": -22.270380659449255,
+		"longitude": -44.87321791385543,
+		"name": "Itamonte"
+	},
+	{
+		"key": "MG2",
+		"latitude": -22.272118140790198,
+		"longitude": -44.87239179348464,
+		"name": "Itamonte"
+	},
+	{
+		"key": "MG5",
+		"latitude": -22.311157330059057,
+		"longitude": -44.93211180687144,
+		"name": "Itanhandu"
+	},
+	{
+		"key": "MG51",
+		"latitude": -22.345762400323462,
+		"longitude": -44.94253217649183,
+		"name": "Passa Quatro"
+	},
+	{
+		"key": "MG8",
+		"latitude": -22.268543869981606, 
+		"longitude": -44.874092313988456,
+		"name": "Itamonte"
+	},
+	{
+		"key": "SP1",
+		"latitude": -22.754357218537223,
+		"longitude": -45.108795784717536,
+		"name": "Lorena"
+	},
+	{
+		"key": "SP2",
+		"latitude": -22.756608045819434,
+		"longitude": -45.1084846483781,
+		"name": "Lorena"
+	}
+]
